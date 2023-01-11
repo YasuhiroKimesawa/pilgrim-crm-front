@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^0.1.5",
-    "class-validator": "^0.10.0",
+    "class-validator": "^0.14.0",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
